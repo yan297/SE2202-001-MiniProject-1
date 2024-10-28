@@ -1,6 +1,6 @@
-# Project-1: Constructor Functions & Class Notation
+# MiniProject-1: Constructor Functions & Class Notation
 
-In this tutorial, you are going to practice working with constructor functions and class notations to recreate a script written using plain objects, to implement the design shown in the image below.
+In this project, you are going to practice working with constructor functions and class notations to recreate a script written using plain objects, to implement the design shown in the image below.
 
 While the class notation provides a better organization of the code, the constructor function provides a good enough mechanism to resemble the class creation and object instantiation concepts of the object-oriented paradigm so that we can benefit from the object-oriented design principles and patterns that are widely accepted as solutions for common problems.
 
