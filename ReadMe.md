@@ -1,4 +1,4 @@
-# Tutorial 6: Constructor Functions & Class Notation
+# Project-1: Constructor Functions & Class Notation
 
 In this tutorial, you are going to practice working with constructor functions and class notations to recreate a script written using plain objects, to implement the design shown in the image below.
 
