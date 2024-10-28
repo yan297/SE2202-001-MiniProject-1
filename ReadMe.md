@@ -20,3 +20,11 @@ In the file 'constructorFunctions.js', create two constructor functions for the 
 In the file named 'classNotation.js' re-organize the code again to use the class notation and give the same output.
 
 
+### Rubric (Total 6 Points)
+
+| Criteria                           | Points | Description |
+|------------------------------------|--------|-------------|
+| **Code Organization & Use of Constructor Functions (2 points)** | 0-2    | - **0 points**: Constructor function version not implemented or non-functional.<br>- **1 point**: Partially implemented constructor version, but has major issues (e.g., incorrect constructors or UML design not followed).<br>- **2 points**: Correctly implemented constructor version, all objects are properly created using constructors, and the output matches the original code. |
+| **Implementation of Class Notation (2 points)** | 0-2    | - **0 points**: Class notation version not implemented or non-functional.<br>- **1 point**: Partially implemented class version, but has major issues (e.g., UML design not followed, incorrect methods).<br>- **2 points**: Correctly implemented class version, all functionality is achieved using class notation, and the output matches the original code. |
+| **Code Clarity & Comments (1 point)** | 0-1    | - **0 points**: Code lacks clarity, is hard to understand, and lacks appropriate comments.<br>- **1 point**: Code is well-organized, structured, and has appropriate comments explaining key parts. |
+| **Maintaining Same Output (1 point)** | 0-1    | - **0 points**: Output does not match the original `plainObjects.js` version.<br>- **1 point**: Output matches the original `plainObjects.js` version. |
